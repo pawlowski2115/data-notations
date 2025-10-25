@@ -7,10 +7,10 @@ Laptops typically have a clamshell form factor with a flat-panel screen on the i
 Laptop hardware:
 The basic components of laptops function identically to their desktop counterparts. Traditionally they were miniaturized and adapted to mobile use, The design restrictions on power, size, and cooling of laptops limit the maximum performance of laptop parts compared to that of desktop components, although that difference has increasingly narrowed.[47]
 1.Display
-1. Central processing unit (CPU)
+1. [Central processing unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit)
 1. Graphics processing unit (GPU)
 1. Internal storage
-1. Memory
+1. [Memory](https://en.wikipedia.org/wiki/Memory)
 
 the top three laptop manufacturers:
 * HP
